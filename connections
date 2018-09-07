@@ -1,0 +1,9 @@
+Connections:
+Arduino Pins -> Robot hand Servo Data line
+Pin 2 -> Little Finger Servo
+Pin 3 -> Ring Finger Servo
+Pin 4 -> Middle Finger Servo
+Pin 5 -> Index Finger Servo
+Pin 6 -> Thumb Finger Servo
+5V and Gnd for servos is given from external power supply. Any smartphone charger would work.
+Connect Gnd common for external supply and Arduino.
