@@ -1,5 +1,5 @@
 # Robotic_hand
-This project let's you control a 3d printed robotic hand with your speech commands.<br>
+This project lets you control a 3d printed robotic hand with your speech commands.<br>
 Steps:
 1. Clone the repository `git clone https://github.com/abhishekyana/Robotic_hand`
 1. 3D print all the robotic hand parts from [here from thingiverse](https://www.thingiverse.com/thing:2171811) and assemble according to the provided instructions.
